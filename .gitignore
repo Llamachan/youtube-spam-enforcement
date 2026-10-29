@@ -1,0 +1,9 @@
+pycache/
+.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.env
+service-account.json
+.DS_Store
+.vscode/
